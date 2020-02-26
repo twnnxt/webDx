@@ -1,0 +1,14 @@
+.Arrow{
+    position: absolute;
+    top: 50%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.Arrow.Left{
+    left: 0;
+}
+
+.Arrow.Right{
+    right: 0;
+}

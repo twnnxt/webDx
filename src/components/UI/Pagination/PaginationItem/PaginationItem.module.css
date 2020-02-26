@@ -1,0 +1,14 @@
+.PaginationItem {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 0 5px;
+    border-radius: 100%;
+    cursor: pointer;
+    border: 1px solid #000;
+}
+
+.PaginationItem.active {
+    background-color: #000;
+    color: #fff;
+}
